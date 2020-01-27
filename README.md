@@ -14,9 +14,7 @@
 2020.1.18 (토) 13:00 ~ 2020.1.19 (일) 14:00
 
 ### 게임 사진
-<img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam1.png" width="500px" height="250">
 <img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam2.png" width="500px" height="250">
-<img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam3.png" width="500px" height="250">
 
 ### 대회 주제
 복덩이
@@ -25,7 +23,7 @@
 * unity 2018.02.21f
 
 ## 3. 프로젝트 개요
-#### 발표 자료 [다운받기]()
+#### 발표 자료 [다운받기](https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/ppt/3%EB%AA%85%EA%B0%99%EC%9D%802%EB%AA%85.pptx)
 
 1. 게임 배경<br/>
 현대<br/>
