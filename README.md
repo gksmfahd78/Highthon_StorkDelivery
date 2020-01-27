@@ -8,7 +8,7 @@
 ## 1. 정보
 
 ### 제 6회 하이톤 대회 정보
-[바로가기]("https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhighthon%2Fposts%2F468121193874288")
+[바로가기](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhighthon%2Fposts%2F468121193874288)
 
 ### 대회 기간
 2020.1.18 (토) 13:00 ~ 2020.1.19 (일) 14:00
