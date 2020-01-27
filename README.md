@@ -14,7 +14,9 @@
 2020.1.18 (토) 13:00 ~ 2020.1.19 (일) 14:00
 
 ### 게임 사진
-<img src="" width="500px" height="250">
+<img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam1.png" width="500px" height="250">
+<img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam2.png" width="500px" height="250">
+<img src="https://github.com/gksmfahd78/Highthon_StorkDelivery/blob/master/Public/img/gam3.png" width="500px" height="250">
 
 ### 대회 주제
 복덩이
